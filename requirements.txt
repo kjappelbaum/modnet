@@ -1,6 +1,6 @@
 tensorflow==2.10.1
 tensorflow-probability==0.18.0
-pandas==1.5.2
+pandas==1.5.3
 pymatgen==2022.9.21
 matminer==0.8.0
 numpy==1.23.5
